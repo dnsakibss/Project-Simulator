@@ -1,1 +1,4 @@
-# Project Features 
+# Project Features
+
+-Implemented User Registration Feature
+
